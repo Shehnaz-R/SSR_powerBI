@@ -42,7 +42,7 @@ This project presents a powerful, interactive dashboard for visualizing e-commer
 
 ## 📸 Dashboard Preview
 
-![SSR Ecommerce Sales Dashboard](./Dashboard%20Screenshot/dashboard-preview.png)
+![SSR Ecommerce Sales Dashboard](Review.png)
 
 ---
 
